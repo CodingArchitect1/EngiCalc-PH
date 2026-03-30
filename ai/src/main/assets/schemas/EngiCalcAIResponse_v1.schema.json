@@ -1,0 +1,7 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "EngiCalcAIResponse",
+  "type": "object",
+  "description": "Placeholder schema; fill with fields when defined.",
+  "properties": {}
+}
